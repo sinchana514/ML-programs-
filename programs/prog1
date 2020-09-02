@@ -4,3 +4,6 @@ user's first and last name and print them in
 reverse order with a space between them
 
 CODE
+firstname = str(input("Input your First Name : "))
+lastname = str(input("Input your Last Name : "))
+print ("" + lastname + " " + firstname)
